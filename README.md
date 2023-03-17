@@ -14,7 +14,7 @@ The google colab file link for yolov8 segmentation and tracking is provided belo
 
 ## YOLOv8 with DeepSORT Object Tracking
 
-[`Github Repo Link`](https://github.com/MuhammadMoinFaisal/YOLOv8-DeepSORT-Object-Tracking.git)
+[`Github Repo Link`](https://github.com/JeanKevInga/Deteccion_de_Velocidad.git)
 
 ## Object Segmentation and Tracking (ID + Trails)  using YOLOv8 on Custom Data
 ## Google Colab File Link (A Single Click Solution)
